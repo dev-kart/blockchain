@@ -1,1 +1,1 @@
-# One of my frontend project for the designing part
+# My Frontend Project for designing part
